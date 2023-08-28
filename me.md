@@ -24,7 +24,7 @@
 <picture><img src="https://github.com/hasanshahriar32/hasanshahriar32/blob/main/general.svg" alt=" animation" align="right" /></picture>
 
 
-- 👀 I’m interested in Electronics, Robotics, Web development, Cybersecurity, and Basic graphics design.
+- 👀 I’m interested in the fields of Electronics, Robotics, Web development, Cybersecurity, and Basic graphics design.
 - 🌱 I’m currently learning full-stack web development.
 - 🔭 I’m frequently playing CTF , try to solving rooms on tryhackme also learning on HTB also sharing my learning exp on my blog site  <br>if u like do check it out !
 - 💞️ I’m looking to collaborate on freelancing projects, part-time jobs.
